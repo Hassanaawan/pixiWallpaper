@@ -1,2 +1,16 @@
-# pixiWallpaper
-Pixel Wallpaper is a Flutter-based app that offers a variety of high-quality wallpapers across multiple categories. Users can preview and set wallpapers for their home and lock screens. The app features smooth loading with shimmer effects and responsive design for a seamless user experience.
+# pixi_wallpaper
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
